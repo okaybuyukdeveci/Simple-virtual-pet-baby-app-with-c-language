@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703758671 source:c:\users\user\desktop\proje\dene2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1702999829 source:c:\users\user\desktop\proje\dene2\fonks.c
+	<stdio.h>
+	<stdlib.h>
+
+1702999029 source:c:\users\user\desktop\proje\dene2\new.c
+
