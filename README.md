@@ -1,6 +1,6 @@
-SİMPLE VİRTUAL BABY/PET APP WİTH C LANGUAGE 
+# SİMPLE VİRTUAL BABY/PET APP WİTH C LANGUAGE 
 
-General Description:
+## General Description:
 
 The steps in the virtual baby application will be as follows:
 Virtual baby's satiety, sleep, love, socialization, health, education, hygiene, toilet and
